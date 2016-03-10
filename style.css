@@ -1,0 +1,74 @@
+body {
+
+line-height: 1;
+text-align: center;
+
+}
+
+ul {
+
+list-style: none;
+
+}
+
+h1 {
+
+font-size: 40px;
+margin 10px 0px;
+
+}
+
+#content {
+   padding-top: 5px;
+   font-size: 18px;
+   border-radius: 5px;
+
+ }
+
+ #heading {
+   background-color: lightgrey;
+   padding-bottom: 30px;
+   padding-top: 30px;
+   
+ }
+
+
+
+
+ #Reset-button {
+   font-size: 18px;
+   border-radius: 5px;
+   padding-right: 0px;
+   padding-left: 30px;
+}
+
+#shoppingList {
+padding-right: 40px;
+background-color: white;
+width:;
+}
+
+.delete-box {
+    float: left;
+    margin-top: 3px;
+    margin-right: 30px;
+    height: 17px;
+    width: 17px;  
+   
+}
+
+li {
+    border: 1px solid #000;
+    border-radius: 10px;
+     padding: 4px;
+     margin: 10px auto; 
+    list-style: none;
+    width: 225px;
+    padding-right: 0px;
+    text-align: left;
+}
+
+#lower-page {
+
+
+}
